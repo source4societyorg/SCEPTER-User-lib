@@ -1,5 +1,5 @@
 {
-  "name": "SCEPTER-User-lib",
+  "name": "@source4society/scepteruserlib",
   "version": "0.0.1",
   "description": "User model for authentication purposes",
   "main": "User.js",
