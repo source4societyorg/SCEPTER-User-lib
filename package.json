@@ -1,0 +1,14 @@
+{
+  "name": "SCEPTER-User-lib",
+  "version": "0.0.1",
+  "description": "User model for authentication purposes",
+  "main": "User.js",
+  "repository": "git@github.com:source4societyorg/SCEPTER-User-lib",
+  "author": "Source4Society.Org",
+  "license": "AGPL-3.0",
+  "private": false,
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "uuid": "^3.1.0"
+  }
+}
